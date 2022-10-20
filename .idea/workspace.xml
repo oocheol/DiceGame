@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80ab692e-6daa-4b54-8736-1c27256f83a8" name="Changes" comment="init">
+    <list default="true" id="80ab692e-6daa-4b54-8736-1c27256f83a8" name="Changes" comment="photo add">
+      <change afterPath="$PROJECT_DIR$/src/HandButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandIcon.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dice.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dice.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +24,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GNQVHstOgxPE4zG7X2AaM00y2T" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -28,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/react/dicegame",
+    "last_opened_file_path": "C:/react/dicegame/src/assets",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -40,6 +47,11 @@
 }]]></component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\react\dicegame\src\assets" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -66,7 +78,7 @@
       <updated>1666226584489</updated>
       <workItem from="1666226587938" duration="745000" />
       <workItem from="1666228085029" duration="45000" />
-      <workItem from="1666246536831" duration="307000" />
+      <workItem from="1666246536831" duration="3038000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1666246739923</created>
@@ -75,7 +87,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666246739923</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1666246851160</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666246851160</updated>
+    </task>
+    <task id="LOCAL-00003" summary="photo add">
+      <created>1666246912333</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666246912333</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +123,8 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="test" />
+    <MESSAGE value="photo add" />
+    <option name="LAST_COMMIT_MESSAGE" value="photo add" />
   </component>
 </project>
